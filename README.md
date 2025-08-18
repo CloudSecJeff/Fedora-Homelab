@@ -45,3 +45,4 @@ My homelab is currently running on:
 4. Run:
    ```bash
    docker compose up -d
+⚠️ Note: Update the `docker-compose.yml` (e.g. ports, volumes, environment variables) to match your own system before running `docker compose up -d`.
