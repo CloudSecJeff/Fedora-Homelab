@@ -6,6 +6,21 @@ Each service runs in its own `docker-compose.yml` file inside its own folder.
 
 ---
 
+## 🖥️ Hardware
+
+My homelab is currently running on:
+
+- **Mini PC**: BOSGAME P4 Plus
+- **CPU**: AMD Ryzen 7 5825U (8C/16T, up to 4.5 GHz)
+- **RAM**: 32 GB DDR4
+- **Storage**: 1 TB PCIe SSD
+- **Networking**: Dual 2.5G LAN, Wi-Fi 6E, Bluetooth 5.2
+- **GPU**: Integrated Radeon Graphics
+- **Extras**: Supports 4K triple display, compact & silent form factor
+- **OS**: Fedora 42
+
+---
+
 ## 🚀 Services
 
 - **Netdata** → System monitoring
