@@ -16,7 +16,6 @@ My homelab is currently running on:
 - **Storage**: 1 TB PCIe SSD
 - **Networking**: Dual 2.5G LAN, Wi-Fi 6E, Bluetooth 5.2
 - **GPU**: Integrated Radeon Graphics
-- **Extras**: Supports 4K triple display, compact & silent form factor
 - **OS**: Fedora 42
 
 ---
@@ -38,10 +37,11 @@ My homelab is currently running on:
 ---
 
 ## 📦 How to Run
-1. Install Docker & Docker Compose.
-2. Clone this repo.
-3. Navigate to a service folder (e.g. `jellyfin/`).
-4. Copy `.env.example` → `.env` and set your values.
-5. Start with:
+1. Install Docker & Docker Compose from https://docs.docker.com/get-started/get-docker/ ( Choose your OS )
+2. Clone this repo:
+   git clone https://github.com/CloudSecJeff/homelab.git
+3. Navigate to a service folder (e.g. `jellyfin/`):
+   cd homelab/jellyfin
+4. Run:
    ```bash
    docker compose up -d
