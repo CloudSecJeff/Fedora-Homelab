@@ -3,7 +3,7 @@
 This repo documents my **homelab running on Fedora 42** with **Docker**.  
 The Objective was to create a self hosted homelab that was capable of running multiple services and that could serve my needs and use cases.
 Each service runs in its own `docker-compose.yml` file inside its own folder.
-Note that this is an ongoing process and more services can always be added, removed, or modified in the future. This tends to just be my current stack, any major updates will be documented.
+
 ---
 
 ## 🚀 Services
