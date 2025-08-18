@@ -40,7 +40,7 @@ My homelab is currently running on:
 ---
 
 ## 📦 How to Run
-1. Install Docker & Docker Compose from https://docs.docker.com/get-started/get-docker/ ( Choose your OS )
+1. Install Docker & Docker Compose from https://docs.docker.com/get-started/get-docker/ ( Linux/Fedora )
 2. Clone this repo:
    git clone https://github.com/CloudSecJeff/homelab.git
 3. Navigate to a service folder (e.g. `jellyfin/`):
