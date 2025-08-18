@@ -7,6 +7,6 @@ services:
       - /var/run/docker.sock:/var/run/docker.sock # Optional, only if you want docker integration
       - ./homarr/appdata:/appdata
     environment:
-      - SECRET_ENCRYPTION_KEY=0f975e6c097c0b6ad793d5928190776fcd3880cffec0748a104ed959fbdcc9f0
+      - SECRET_ENCRYPTION_KEY=your_generated_key_here
     ports:
       - '7575:7575'
