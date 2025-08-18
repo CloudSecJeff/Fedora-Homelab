@@ -44,7 +44,7 @@ My homelab is currently running on:
 2. Clone this repo:
    git clone https://github.com/CloudSecJeff/homelab.git
 3. Navigate to a service folder (e.g. `jellyfin/`):
-   cd homelab/jellyfin
+   `cd homelab/jellyfin`
 4. Run:
    ```bash
    docker compose up -d
