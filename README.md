@@ -42,9 +42,9 @@ My homelab is currently running on:
 ## 📦 How to Run
 1. Install Docker & Docker Compose from https://docs.docker.com/get-started/get-docker/ ( Linux/Fedora )
 2. Clone this repo:
-   git clone https://github.com/CloudSecJeff/homelab.git
+   git clone https://github.com/CloudSecJeff/Fedora-Homelab.git
 3. Navigate to a service folder (e.g. `jellyfin/`):
-   `cd homelab/jellyfin`
+   `cd Fedora-Homelab/jellyfin`
 4. Run:
    ```bash
    docker compose up -d
