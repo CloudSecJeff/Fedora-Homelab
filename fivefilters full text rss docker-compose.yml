@@ -1,4 +1,3 @@
----
 services:
   fullfeedrss:
     image: heussd/fivefilters-full-text-rss:latest
