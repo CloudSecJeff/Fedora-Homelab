@@ -1,0 +1,15 @@
+services:
+  traefik:
+    image: "traefik:v3.5"
+    container_name: "traefik"
+    command:
+      - "--api.insecure=true"                  # Dashboard for local testing
+      - "--providers.docker=true"              # Watch Docker containers
+      - "--providers.docker.exposedbydefault=false"  # Only expose labeled containers
+      - "--entryPoints.web.address=:80"        # HTTP entrypoint
+    ports:
+      - "80:80"                                # HTTP traffic
+      - "8081:8080"                            # Dashboard on localhost:8081
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock:ro"  # Required for Docker provider
+    restart: unless-stopped
