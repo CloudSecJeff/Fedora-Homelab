@@ -38,7 +38,7 @@ My homelab is currently running on:
 - **qBittorrent** → Torrent client
 - **FreshRSS** → RSS reader
 - **FiveFilters Full-Text RSS** → Convert feeds to full articles
-- **Traefik** → Self-hosted reverse proxy to route traffic between containerized services 
+- **Nginx Proxy Manager** → Self-hosted reverse proxy to route traffic between containerized services 
 
 ---
 
