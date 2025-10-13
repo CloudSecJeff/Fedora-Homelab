@@ -35,11 +35,9 @@ My homelab is currently running on:
 - **Radarr** → Movies
 - **Sonarr** → TV shows
 - **Prowlarr** → Indexer manager
-- **qBittorrent** → Torrent client
 - **FreshRSS** → RSS reader
 - **FiveFilters Full-Text RSS** → Convert feeds to full articles
-- **Nginx Proxy Manager** → Self-hosted reverse proxy to route traffic between containerized services 
-
+- **Omni-Tools** → Self-hosted web app offering a variety of online tools to simplify everyday tasks
 ---
 
 ## 📦 How to Run
