@@ -37,6 +37,7 @@ My homelab is currently running on:
 - **Prowlarr** → Indexer manager
 - **FreshRSS** → RSS reader
 - **FiveFilters Full-Text RSS** → Convert feeds to full articles
+- **Node Red** → Low-code, flow-based programming tool
 - **Omni-Tools** → Self-hosted web app offering a variety of online tools to simplify everyday tasks
 ---
 
