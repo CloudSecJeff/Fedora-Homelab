@@ -1,3 +1,4 @@
+#Currently inactive, may come back to this later and addd it to the homelab
 services:
   qbittorrent:
     image: lscr.io/linuxserver/qbittorrent:latest
