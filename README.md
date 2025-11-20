@@ -39,6 +39,7 @@ My homelab is currently running on:
 - **FiveFilters Full-Text RSS** → Convert feeds to full articles
 - **NodeRed** → Low-code, flow-based programming tool
 - **Omni-Tools** → Self-hosted web app offering a variety of online tools to simplify everyday tasks
+- **Home Assistant** → Self-Hosted smart home automation 
 ---
 
 ## 📦 How to Run
